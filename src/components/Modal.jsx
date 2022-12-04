@@ -33,7 +33,7 @@ const Modal = () => {
           <Address>
             <p>From Cosmos Hub</p>
             <Flex justify='flex-start'>
-              <img src='/src/assets/cosmos-hub.png' alt='cosmos hub' />
+              <img src='/assets/images/cosmos-hub.png' alt='cosmos hub' />
               <span>atom1xy5y...m6wwz9a</span>
             </Flex>
           </Address>
@@ -44,7 +44,7 @@ const Modal = () => {
             <p>To Osmosis</p>
             <Flex>
               <Flex justify='flex-start'>
-                <img src='/src/assets/osmosis.png' alt='osmosis' />
+                <img src='/assets/images/osmosis.png' alt='osmosis' />
                 <span>osmo1xy5y...w9a</span>
               </Flex>
               <FaPen size={14} />
@@ -62,7 +62,7 @@ const Modal = () => {
         </AmountTitle>
         <InputBox>
           <Flex>
-            <img src='/src/assets/cosmos-hub.png' alt='cosmos hub' />
+            <img src='/assets/images/cosmos-hub.png' alt='cosmos hub' />
           </Flex>
           <Flex>
             <Input defaultValue={2} max={10} />
