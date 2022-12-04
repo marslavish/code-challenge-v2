@@ -1,5 +1,15 @@
 # UI Challenge
 
+## Preview
+
+👉 https://luca-challenge-v2.netlify.app
+
+## Installation
+
+`npm install`
+
+`npm run dev`
+
 ## Target
 
 Make an UI Component as follows
